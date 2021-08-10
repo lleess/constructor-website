@@ -60,13 +60,12 @@ body {
 
 .social {
     display: flex;
-    margin-left: 40px;
-    gap: 20px;
 }
 
 .social-link {
     display: block;
     max-width: 18px;
+    margin-left: 20px;
     text-decoration: none;
 }
 
@@ -378,7 +377,6 @@ body {
     }
 
     .social {
-        order: 1;
         margin-left: 0;
         margin-bottom: 22px;
     }
